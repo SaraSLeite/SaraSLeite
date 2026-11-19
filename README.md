@@ -18,14 +18,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Sara ♡-black" />
-</div>
-      
-<br>
-
 <div align="center">
   <a href="https://github.com/sarasleite">
     <img height="180" src="https://github-stats-extended.vercel.app/api?username=sarasleite&rank_icon=github&theme=midnight-purple">
